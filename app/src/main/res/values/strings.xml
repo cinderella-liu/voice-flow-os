@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Flow OS</string>
+    <string name="notification_channel_name">锁屏语音入口</string>
+    <string name="notification_channel_description">从锁屏快速启动 Voice Flow OS</string>
+</resources>
